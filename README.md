@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Espoir Agbegbo 👋
+
+Software Engineer | Backend & Software Architecture
 
 <!--
 **jackk17/jackk17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
