@@ -1,3 +1,4 @@
+![Espoir Agbegbo - Professional Banner](./banner.png)
 # Hi, I'm Espoir Agbegbo
 
 **Software Engineer | Data-Driven Solutions | Project & Product Management**
