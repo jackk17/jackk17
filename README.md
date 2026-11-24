@@ -219,6 +219,18 @@ MVP currently under development.
 
 *Private repository — source code not publicly available.*
 
+
+## Personal Projects
+
+### [Transaction Processor — Financial Transaction Processing API](https://github.com/jackk17/transaction_processor)n · FastAPI · Pydantic · Pytest · Ruff
+
+**Engineering Practices:** Software Architecture ·
+Automated Testing · API Design · Code Quality
+
+**Status:** Actively under development.
+
+
+
 ## Let's Connect
 
 I'm interested in building meaningful technology solutions
