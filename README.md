@@ -1,7 +1,4 @@
 ![Espoir Agbegbo - Professional Banner](./banner.png)
-# Hi, I'm Espoir Agbegbo
-
-**Software Engineer | Data-Driven Solutions | Project & Product Management**
 
 I am a Software Engineer with an entrepreneurial background and several years of experience designing, developing, and delivering digital products.
 
